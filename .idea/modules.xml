@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/quarkus-queue.iml" filepath="$PROJECT_DIR$/.idea/quarkus-queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quarkus-queue/quarkus-queue.iml" filepath="$PROJECT_DIR$/quarkus-queue/quarkus-queue.iml" />
     </modules>
   </component>
 </project>
